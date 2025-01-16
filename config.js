@@ -83,9 +83,9 @@ const CONFIG = {
     },
     {
       id: "6",
-      name: "Odysee",
-      icon: "youtube",
-      link: "https://odysee.com/",
+      name: "raindrop",
+      icon: "cloudy",
+      link: "https://app.raindrop.io/my/51545287/",
     },
   ],
 
