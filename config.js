@@ -22,18 +22,18 @@ const CONFIG = {
   greetingEvening: "Good evening,",
   greetingNight: "Go to Sleep!",
 
-  // Layout
+  // LayoutP
   bentoLayout: "bento", // 'bento', 'lists', 'buttons'
 
   // Weather
-  weatherKey: "InsertYourAPIKeyHere123456", // Write here your API Key
+  weatherKey: "3bf3e40c3d93ecca937edfc985b15516", // Write here your API Key
   weatherIcons: "OneDark", // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: "C", // 'F', 'C'
   language: "en", // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: "37.775",
-  defaultLongitude: "-122.419",
+  defaultLatitude: "55.676098",
+  defaultLongitude: "12.568337",
 
   // Autochange
   autoChangeTheme: true,
@@ -65,15 +65,15 @@ const CONFIG = {
     },
     {
       id: "3",
-      name: "Google drive",
+      name: "ProtonDrive",
       icon: "hard-drive",
-      link: "https://drive.google.com/",
+      link: "https://drive.proton.me/u/0/dqoUkJM8WTyISid7hbb23a_zkSvELkOFj3IZYGUlVEtDtFh8pgfmLa51pZJLuReQlutDOVcyZaM4y1d90kce6Q==/folder/e7VLEJ5m2MMqpWWp4uslNV1-sMBbn1GqXd8p7oFC0bo2KBLDHzmLBedMY3cmczY2f7k67E-arHOW4zmMXM7OVQ==",
     },
     {
       id: "4",
-      name: "Calendar",
-      icon: "calendar",
-      link: "https://calendar.google.com/calendar/r",
+      name: "PtotonMail",
+      icon: "Mail",
+      link: "https://mail.proton.me/u/0/inbox",
     },
     {
       id: "5",
